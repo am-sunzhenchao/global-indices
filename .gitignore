@@ -1,0 +1,4 @@
+.env
+.codeflicker/
+__pycache__/
+*.pyc
